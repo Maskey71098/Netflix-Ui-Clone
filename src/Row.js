@@ -17,7 +17,6 @@ function Row({title, fetchUrl, isLargeRow}) {
 
     },[fetchUrl]);
 
-
     return (
         <div className="row">
             <h2>{title}</h2>
