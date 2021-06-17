@@ -1,3 +1,5 @@
+#Hosted Live From firebase on : https://netflixclone-c08f2.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
