@@ -2,13 +2,13 @@ import './App.css';
 import requests from './requests';
 import Row from './Row.js';
 import Banner from './Banner.js';
-
+import Nav from './Nav.js';
+import YouTube from 'react-youtube';
 //3d78b4595430d1139de9e2c81172036d  -- api key
 function App() {
   return (
     <div className="App">
-      {/* Navbar */}
-      {/* Bannerr */}
+      <Nav />
       <Banner />
       <Row
         title="NETFLIX ORIGINALS"
